@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm ANUJ KUMAR</h1>
+<h1 align="center">Hi 👋, Its Anuj</h1>
 <h3 align="center">An enthusiastic fresher with creative thinking AND undergoing PostGraduation in Masters of computer application- MCA, Graduated in "Bachelors in computer application-BCA"</h3>
 
-- 💬 Ask me about **python, php , css, html , photoshop, c, cpp, java**
+- 💬 currenting learning  **python, php , hadoop, azure , clouds**
 
 - 📫 How to reach me **ajanujmax@gmail.com**
 
