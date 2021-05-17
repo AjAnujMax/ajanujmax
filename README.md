@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Its Anuj</h1>
 <h3 align="center">An enthusiastic fresher with creative thinking AND undergoing PostGraduation in Masters of computer application- MCA, Graduated in "Bachelors in computer application-BCA"</h3>
 
-- 💬 currently learning  **python, php , hadoop, azure , clouds**
+- 💬 currently learning  **python, hadoop, azure , clouds**
 
 - 📫 How to reach me **ajanujmax@gmail.com**
 
@@ -22,7 +22,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently looking for instership/job 
+- 🔭 I’m currently looking for intership/job 
 - 🌱 Learning is Earnig
 - 📫 How to reach me: ajanujmax@gamil.com
 - ⚡ Fun fact: Impress me from work not with Words.
