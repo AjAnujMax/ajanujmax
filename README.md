@@ -4,7 +4,6 @@
 - 💬 currently learning  **python, hadoop, azure , clouds**
 
 - 📫 How to reach me **ajanujmax@gmail.com**
-- 
 - 📫 Blog page github **https://ajanujmax.github.io/blogpage/index.html**
 
 <h3 align="left">Connect with me:</h3>
