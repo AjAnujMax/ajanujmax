@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently looking for intership/job 
 - 🌱 Learning is Earnig
 - 📫 How to reach me: ajanujmax@gamil.com
-- ⚡ Fun fact: Impress me from work not with Words.
 -->
