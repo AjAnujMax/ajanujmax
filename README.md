@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, Its Anuj</h1>
-<h3 align="center">An enthusiastic fresher with creative thinking AND undergoing PostGraduation in Masters of computer application- MCA, Graduated in "Bachelors in computer application-BCA"</h3>
-
-- 💬 currently learning  **python, hadoop, azure , clouds**
+<h3 align="center">An enthusiastic Person with creative and deep analytical thinking, PostGraduation in Masters of computer application- MCA, Graduated in "Bachelors in computer application-BCA"</h3>
 
 - 📫 How to reach me **ajanujmax@gmail.com**
 - 📫 Blog page github **https://ajanujmax.github.io/blogpage/index.html**
