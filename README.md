@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Its Anuj</h1>
-<h3 align="center" I'm a working as full stack developer since jan,2022 and enthusiastic Person with creative and deep analytical thinking, PostGraduation in Masters of computer application- MCA, Graduated in "Bachelors in computer application-BCA"</h3>
+<h3 align="center"> I'm a working as full stack developer since jan,2022 and enthusiastic Person with creative and deep analytical thinking, PostGraduation in Masters of computer application- MCA, Graduated in "Bachelors in computer application-BCA"</h3>
 
 - 📫 How to reach me **ajanujmax@gmail.com**
 - 📫 Blog page github **https://ajanujmax.github.io/blogpage/index.html**
