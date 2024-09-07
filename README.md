@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Its Anuj</h1>
-<h3 align="center"> I'm a working as full stack developer since jan,2022 and enthusiastic Person with creative and deep analytical thinking, PostGraduation in Masters of computer application- MCA, Graduated in "Bachelors in computer application-BCA"</h3>
+<h3 align="center"> Full Stack Developer with a passion for creative problem-solving and deep analytical thinking. I have been working as a Full Stack Developer since January 2022, building robust and scalable web solutions. I hold a Master's degree in Computer Applications (MCA) and a Bachelor's degree in Computer Applications (BCA), with a strong foundation in both front-end and back-end development. </h3>
 
 - 📫 How to reach me **ajanujmax@gmail.com**
 - 📫 Blog page github **https://ajanujmax.github.io/blogpage/index.html**
