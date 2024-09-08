@@ -1,21 +1,6 @@
 <h1 align="center">Hi 👋, Its Anuj</h1>
 <h3 align="center"> Full Stack Developer with a passion for creative problem-solving and deep analytical thinking. I have been working as a Full Stack Developer since January 2022, building robust and scalable web solutions. I hold a Master's degree in Computer Applications (MCA) and a Bachelor's degree in Computer Applications (BCA), with a strong foundation in both front-end and back-end development. </h3>
 
-## 🔧 Technologies & Tools
-- **Languages & Frameworks:** JavaScript, TypeScript, PHP, Laravel, Vue.js, React.js, Node.js, Express.js
-- **Web Technologies:** HTML, CSS, SCSS, Bootstrap, Tailwind CSS, SFCC (Salesforce Commerce Cloud), ISML, REST API, GraphQL
-- **Development Tools:** Visual Studio Code, Git, GitHub, Bitbucket, Postman, JIRA, Google Sheets
-- **Databases:** SFCC, MySQL, PostgreSQL
-
-
-## 🛠️ Key Projects
-1. **E-commerce Solutions** - Developed and optimized eCommerce platforms, integrating payment systems and shipping APIs.
-2. **Marketing Integration** - Created components and integrated marketing tools for enhanced customer engagement.
-3. **Financial Management** - Automated tasks and integrated APIs for streamlined financial operations.
-4. **Custom Web Applications** - Implemented and maintained various web applications using modern technologies.
-5. **Portfolio Development** - Built and showcased professional portfolios using cutting-edge frameworks.
-
-
 - 📫 How to reach me **ajanujmax@gmail.com**
 - 📫 Blog page github **https://ajanujmax.github.io/blogpage/index.html**
 
@@ -27,6 +12,6 @@
 
 Here are some ideas to get you started:
  
-- 🌱 Learning is Earnig
+- 🌱 Learning is Earnig, 
 - 📫 How to reach me: ajanujmax@gamil.com
--->
+-->mostly worked on office and client specific gits.
