@@ -14,4 +14,4 @@ Here are some ideas to get you started:
  
 - 🌱 Learning is Earnig, 
 - 📫 How to reach me: ajanujmax@gamil.com
--->mostly worked on office and client specific gits.
+<br><br> -->mostly worked on office and client specific gits.
